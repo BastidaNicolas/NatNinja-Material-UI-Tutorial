@@ -9,3 +9,8 @@ And to run it you do:
 `json-server --watch data/db.json --port {desired port number}`
 
 This is how the project looks:
+
+![Desktop view of my notes page](./desc-my-notes.png)
+![Desktop view of create notes page](./Desc-create-notes.png)
+![Mobile view of page](./Mob-view.png)
+![Mobile menu view](./Mob-menu.png)
