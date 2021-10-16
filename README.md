@@ -8,7 +8,7 @@ For data storage we are using a local json server, so you may have to install it
 And to run it you do:
 `json-server --watch data/db.json --port {desired port number}`
 
-This is how the project looks:
+This is how the project looks like:
 
 ![Desktop view of my notes page](./desc-my-notes.png)
 ![Desktop view of create notes page](./Desc-create-notes.png)
